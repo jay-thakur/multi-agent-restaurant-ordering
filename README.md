@@ -1,4 +1,5 @@
 # Restaurant Ordering System
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14743896.svg)](https://doi.org/10.5281/zenodo.14743896)
 
 This demo showcases a **multi-agent restaurant ordering system** using AutoGen. It demonstrates how multiple agents can collaborate to handle restaurant-related tasks, including managing a menu, processing orders, and providing real-time updates.
 
@@ -73,4 +74,25 @@ Below is a detailed sequence diagram of the multi-agent interaction:
     ```bash
     python3 restaurant_ordering.py
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14743896.svg)](https://doi.org/10.5281/zenodo.14743896)
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Citation 
+
+If you use this software in your research, please cite: 
+
+```bibtex
+@software{thakur2024restaurant,
+    author       = {Jay Thakur},
+    title        = {Multi-Agent Restaurant Ordering System using AutoGen},
+    month        = jan,
+    year         = 2024,
+    publisher    = {Zenodo},
+    version      = {v0.1.0},
+    doi          = {10.5281/zenodo.14743896}
+}
