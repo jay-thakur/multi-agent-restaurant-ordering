@@ -73,3 +73,4 @@ Below is a detailed sequence diagram of the multi-agent interaction:
     ```bash
     python3 restaurant_ordering.py
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14743896.svg)](https://doi.org/10.5281/zenodo.14743896)
