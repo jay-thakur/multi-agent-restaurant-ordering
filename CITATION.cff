@@ -1,0 +1,1 @@
+cff-version: 1.2.0message: "If you use this software, please cite it as below."authors:  - family-names: "Thakur"    given-names: "Jay"title: "Multi-Agent Restaurant Ordering System using AutoGen"version: v0.1.0date-released: 2024-01-26url: "https://github.com/jay-thakur/multi-agent-restaurant-ordering"doi: 10.5281/zenodo.14743896

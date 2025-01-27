@@ -92,7 +92,7 @@ If you use this software in your research, please cite:
     author       = {Jay Thakur},
     title        = {Multi-Agent Restaurant Ordering System using AutoGen},
     month        = jan,
-    year         = 2024,
+    year         = 2025,
     publisher    = {Zenodo},
     version      = {v0.1.0},
     doi          = {10.5281/zenodo.14743896}
