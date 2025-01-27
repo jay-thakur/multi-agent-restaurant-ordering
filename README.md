@@ -1,5 +1,6 @@
 # Restaurant Ordering System
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14743896.svg)](https://doi.org/10.5281/zenodo.14743896)
+![Downloads](https://img.shields.io/github/downloads/jay-thakur/multi-agent-restaurant-ordering/total)
 
 This demo showcases a **multi-agent restaurant ordering system** using AutoGen. It demonstrates how multiple agents can collaborate to handle restaurant-related tasks, including managing a menu, processing orders, and providing real-time updates.
 
@@ -87,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this software in your research, please cite: 
 
 ```bibtex
-@software{thakur2024restaurant,
+@software{MARO_2025,
     author       = {Jay Thakur},
     title        = {Multi-Agent Restaurant Ordering System using AutoGen},
     month        = jan,
